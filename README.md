@@ -1,15 +1,15 @@
-# :muscle: 2020 TIS Project Havit, HAVE IT! :muscle:
+# :facepunch: 2020 TIS Project Havit, HAVE IT! :facepunch:
 Spring 기반 습관을 생활화해주는 웹
 
 ## TIS 실천해조!
 
 ### 팀원
 
-- 이민하 - Project Manager
+- 이민하 (Project Manager)
 
-- 조의연 - Project Leader
+- 조의연 (Project Leader)
 
-- 남윤재 - Project Leader
+- 남윤재 (Project Leader)
 
 - 이태민
 
@@ -19,7 +19,7 @@ Spring 기반 습관을 생활화해주는 웹
 
 ## SW
 ### Purpose
-매번 목표만 잡고 실패했던 나의 과거를 잊게 해주는 웹의 필요
+매번 계획만 잡고 실패하는 우리들을 위한 습관 실천 공유 사이트 개발!
 
 ### System Architecture
 <p align="center">
