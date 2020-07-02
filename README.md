@@ -1,4 +1,4 @@
-# :facepunch: 2020 TIS Project Havit, HAVE IT! :facepunch:
+# :facepunch: 2020 TIS Project Habit, HAVE IT! :facepunch:
 Spring 기반 계획을 실천하게해주는 웹
 
 ## TIS 실천해조!
