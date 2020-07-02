@@ -1,5 +1,5 @@
 # :facepunch: 2020 TIS Project Havit, HAVE IT! :facepunch:
-Spring 기반 습관을 생활화해주는 웹
+Spring 기반 계획을 실천하게해주는 웹
 
 ## TIS 실천해조!
 
@@ -19,7 +19,8 @@ Spring 기반 습관을 생활화해주는 웹
 
 ## SW
 ### Purpose
-매번 계획만 잡고 실패하는 우리들을 위한 습관 실천 공유 사이트 개발!
+매번 계획만 잡고 포기하는 우리들을 실천하게 만들기 위해서 
+실천을 공유하는 웹사이트
 
 ### System Architecture
 <p align="center">
@@ -33,7 +34,7 @@ Spring 기반 습관을 생활화해주는 웹
 
 ### Demo Command
 ```
-python main.py
+
 ```
 
 ### Pose estimate Result
@@ -74,8 +75,6 @@ python main.py
 ```
 
 ```
-
-### Weigths Download
 
 
 ### Reference
