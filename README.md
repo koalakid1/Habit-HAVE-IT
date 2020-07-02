@@ -22,34 +22,6 @@ Spring 기반 계획을 실천하게해주는 웹
 매번 계획만 잡고 포기하는 우리들을 실천하게 만들기 위해서 
 실천을 공유하는 웹사이트
 
-### System Architecture
-<p align="center">
-  <img src="images/SystemArchitecture.PNG", width="1024">
-</p>
-
-## Demo
-<p align="center">
-  <img src="images/PTPose.gif">
-</p>
-
-### Demo Command
-```
-
-```
-
-### Pose estimate Result
-
-
-### Feedback
-<p align="left">
-
-</p>
-
-### Score record
-<p align="left">
-
-</p>
-
 ### Todo List
 - [] 요구사항 분석
 - [] 화면 구성
