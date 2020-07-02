@@ -1,4 +1,4 @@
-# :muscle: 2020 TIS Project Havit, Have It! :muscle:
+# :muscle: 2020 TIS Project Havit, HAVE IT! :muscle:
 Spring 기반 습관을 생활화해주는 웹
 
 ## TIS 실천해조!
