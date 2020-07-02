@@ -26,11 +26,6 @@ Spring 기반 습관을 생활화해주는 웹
   <img src="images/SystemArchitecture.PNG", width="1024">
 </p>
 
-### Features
-- Pose Estimate using Object Detection
-- Feedback SPEED, POSTURE(knee, wrist)
-- Providing cumulative score for increasing Engage
-
 ## Demo
 <p align="center">
   <img src="images/PTPose.gif">
@@ -55,21 +50,26 @@ python main.py
 </p>
 
 ### Todo List
-- [] 
-- [] 
-- [] 
+- [] 요구사항 분석
+- [] 화면 구성
+- [] 코드 컨벤션(네이밍 룰)
+- [] 기획서 작성
+- [] UseCase 다이어그램
+- [] 화면 설계
+- [] DB 설계
+- [] 테마 선정
+- [] CSS
+- [] 스프링 코드 작성
+- [] 부분통합
+- [] 전체통합
+
+
 
 ### Done List
-
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] 주제 선정 
 
 ## Information
+
 ### Version
 ```
 
