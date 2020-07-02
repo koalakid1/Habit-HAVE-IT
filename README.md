@@ -42,22 +42,22 @@ python main.py
 ```
 
 ### Pose estimate Result
-![](https://github.com/comojin1994/YOLOPose/blob/master/Pose_estimate/detection_result.jpg?raw=true)
+
 
 ### Feedback
 <p align="left">
-  <img src="images/feedback.PNG", width="700">
+
 </p>
 
 ### Score record
 <p align="left">
-  <img src="images/record.png", width="500">
+
 </p>
 
 ### Todo List
-- [] sound feedback
-- [] Torso normalization
-- [] Upgrade UI/UX
+- [] 
+- [] 
+- [] 
 
 ### Done List
 
