@@ -58,7 +58,7 @@ Spring 기반 계획을 실천하게해주는 웹
 ```
 
 
-### 
+### 참고자료(벤치마킹)
 westudy 어플
 
 [위스터디 - 소셜 스터디모임 어플 - Google Play 앱](https://play.google.com/store/apps/details?id=com.westudy.kims.westudy&hl=ko)
