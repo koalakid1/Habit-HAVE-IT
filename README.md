@@ -48,6 +48,12 @@ Spring 기반 계획을 실천하게해주는 웹
 
 ### Version
 ```
+- HTML, CSS
+- Javascript
+- Oracle DB
+- Bootstrap
+- Spring
+- Tomcat
 
 ```
 
