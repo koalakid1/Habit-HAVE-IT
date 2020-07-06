@@ -59,7 +59,17 @@ Spring 기반 계획을 실천하게해주는 웹
 
 
 ### Reference
+westudy 어플
 
+[위스터디 - 소셜 스터디모임 어플 - Google Play 앱](https://play.google.com/store/apps/details?id=com.westudy.kims.westudy&hl=ko)
+
+모각코(모여서 각자 코딩)
+
+[모여서 각자 코딩하는 모임.](https://www.facebook.com/groups/mogaco/)
+
+소모임
+
+[소모임 - No.1 취미모임 앱 - Google Play 앱](https://play.google.com/store/apps/details?id=com.friendscube.somoim&hl=ko)
 
 
 
